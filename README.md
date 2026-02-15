@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# About dnd-research
+
+This research project is meant as a central project for us to explore and do a deep-dive into the most popular drag-and-drop libraries that are current compatible 
+with React 19.*.
+
+We have decided to go with a Next.js architecture for this research project because it will allow us to organize our research topics into organized sections.
+
+That will also make it much easier for us to navigate and find our research examples in the near future.
 
 ## Getting Started
 
